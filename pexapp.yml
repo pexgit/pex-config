@@ -1,2 +1,2 @@
-testConfigMessage=This message came from the Config Server!
-testConfigMessageClass=panel-success
+testConfigMessage: This message came from the Config Server!
+testConfigMessageClass: panel-success
