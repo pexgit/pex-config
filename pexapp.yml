@@ -1,4 +1,4 @@
-testConfigMessage: This message came from the Config Server!
+testConfigMessage: This message came from the Config Server! 2
 testConfigMessageClass: panel-success
 features:
   - name: feature1
