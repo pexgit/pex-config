@@ -1,2 +1,5 @@
 testConfigMessage: This message came from the Config Server!
 testConfigMessageClass: panel-success
+features:
+  - name: feature1
+    isActive: true
